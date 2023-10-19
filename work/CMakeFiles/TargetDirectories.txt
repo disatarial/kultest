@@ -1,0 +1,3 @@
+/home/daenur/programmer/c/kulemc/work/CMakeFiles/rebuild_cache.dir
+/home/daenur/programmer/c/kulemc/work/CMakeFiles/edit_cache.dir
+/home/daenur/programmer/c/kulemc/work/CMakeFiles/kulemc.dir

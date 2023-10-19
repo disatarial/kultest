@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daenur/programmer/c/kultest/main.c
+gtk/gtk.h
+-
+stdio.h
+-
+string.h
+-
+malloc.h
+-
+stdlib.h
+-
+pthread.h
+-
+

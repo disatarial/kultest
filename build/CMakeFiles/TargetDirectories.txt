@@ -1,0 +1,3 @@
+/home/daenur/programmer/c/kultest/build/CMakeFiles/rebuild_cache.dir
+/home/daenur/programmer/c/kultest/build/CMakeFiles/edit_cache.dir
+/home/daenur/programmer/c/kultest/build/CMakeFiles/kultest.dir
